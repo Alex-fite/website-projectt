@@ -1,4 +1,3 @@
 # website-projectt
 ## Project Done By Alex
-
-Contributors: Eyuel , Hayder
+Contributors: Eyuel , Hayder, alex
