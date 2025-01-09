@@ -1,4 +1,3 @@
 # website-projectt
 ## Project Done By Alex
-
-Contributors: Eyuel,yoni
+Contributors: Eyuel , Hayder, alex, yoni
